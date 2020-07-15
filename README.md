@@ -1,4 +1,4 @@
-# weather_by_sandeep
+# weather_flutter
 
 A new Flutter project.
 
